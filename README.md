@@ -10,9 +10,9 @@ Following is the order of running jupyter notebook files:
 3. data_merge.ipynb
 --------------------------------------
 
-By running 1~3 with GPU: 
+By running 1. to 3. with GPU: 
 generated_essays_humanlike.csv, generated_essays_normal.csv, generated_essays_merged.csv is made
-Without running 1~3 files, it is able to run 4~9 files with those 3 csv files.
+Without running 1. to 3. files, it is able to run 4. to 9. files with those 3 csv files.
 
 --------------------------------------
 4. pattern_analysis.ipynb
